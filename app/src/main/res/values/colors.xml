@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="alo7_blue">#2BC2FF</color>
+    <color name="alo7_pressed_blue">#039BE5</color>
+    <color name="alo7_light_green">#039BE5</color>
+    <color name="alo7_orange">#FCA151</color>
+    <color name="alo7_light_red">#FF5252</color>
+    <color name="alo7_yellow">#FFE014</color>
+    <color name="alo7_dark_gray">#212121</color>
+    <color name="alo7_medium_gray">#757575</color>
+    <color name="alo7_light_gray">#BDBDBD</color>
+    <color name="alo7_disable_gray">#D8D8D8</color>
+    <color name="alo7_divider_gray">#E9E9E9</color>
+    <color name="alo7_background">#F0F4F5</color>
+    <color name="alo7_barBackground">#FAFAFA</color>
+    <color name="alo7_white">#FFFFFF</color>
+</resources>

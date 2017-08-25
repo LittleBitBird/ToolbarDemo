@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <com.example.guanhuawu.toolbardemo.PetImage
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="0.34"
+        android:layout_marginTop="107dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"></com.example.guanhuawu.toolbardemo.PetImage>
+    <com.example.guanhuawu.toolbardemo.PetImage
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="0.34"
+        android:id="@+id/petImage3"
+        android:layout_alignTop="@+id/petImage2"
+        android:layout_alignParentEnd="true"></com.example.guanhuawu.toolbardemo.PetImage>
+    <com.example.guanhuawu.toolbardemo.PetImage
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="0.34"
+        android:layout_marginBottom="9dp"
+        android:id="@+id/petImage2"
+        android:layout_above="@+id/petImage"
+        android:layout_alignParentStart="true"></com.example.guanhuawu.toolbardemo.PetImage>
+    <com.example.guanhuawu.toolbardemo.PetImage
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="0.34"
+        android:layout_marginEnd="35dp"
+        android:layout_alignTop="@+id/petImage"
+        android:layout_alignParentEnd="true"></com.example.guanhuawu.toolbardemo.PetImage>
+    <com.example.guanhuawu.toolbardemo.PetImage
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="0.34"
+        android:layout_marginStart="36dp"
+        android:layout_marginBottom="128dp"
+        android:id="@+id/petImage"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"></com.example.guanhuawu.toolbardemo.PetImage>
+
+
+</RelativeLayout>

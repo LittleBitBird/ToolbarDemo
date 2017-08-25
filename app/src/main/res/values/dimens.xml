@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="main_activity_horizontal_margin">16dp</dimen>
+    <dimen name="actionbar_height">44dp</dimen>
+    <dimen name="bottom_navbar_height">49dp</dimen>
+    <dimen name="button_height">44dp</dimen>
+    <dimen name="button_width">231dp</dimen>
+    <dimen name="button_corner_radius">100dp</dimen>
+    <dimen name="button_stroke_width">1dp</dimen>
+    <dimen name="alo7_large">18sp</dimen>
+    <dimen name="alo7_big">16sp</dimen>
+    <dimen name="alo7_medium">14sp</dimen>
+    <dimen name="alo7_small">12sp</dimen>
+
+    <dimen name="dialog_margin_top">25dp</dimen>
+    <dimen name="dialog_margin_left">70dp</dimen>
+    <dimen name="normal_margin_length">10dp</dimen>
+    <dimen name="longer_margin_length">20dp</dimen>
+    <dimen name="middle_margin_length">15dp</dimen>
+    <dimen name="dialog_width">280dp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+
+    <dimen name="pet_image_border_width">1dp</dimen>
+    <dimen name="petimage_selected_border_width">2dp</dimen>
+    <dimen name="petimage_unselected_border_width">1dp</dimen>
+    <dimen name="iv_toggle_width">23dp</dimen>
+    <dimen name="iv_toggle_height">23dp</dimen>
+
+    <dimen name="step_indicator_corner_radius">2dp</dimen>
+    <dimen name="public_corners_radius">8dp</dimen>
+    <dimen name="text_margin_indicator">45dp</dimen>
+    <dimen name="indicator_margin_top">27dp</dimen>
+    <dimen name="verify_code_width">116dp</dimen>
+    <dimen name="verify_code_height">40dp</dimen>
+    <dimen name="phone_login_tip_margin_top">45dp</dimen>
+    <dimen name="login_margin_left_right">20dp</dimen>
+    <dimen name="login_bt_margin_top">28dp</dimen>
+    <dimen name="login_text_bt_margin_top">23dp</dimen>
+    <dimen name="login_et_phone_margin_top">40dp</dimen>
+    <dimen name="verify_text_margin">16dp</dimen>
+
+    <dimen name="welcome_guide_message_margin_top">76dp</dimen>
+    <dimen name="edittext_margin_top">16dp</dimen>
+    <dimen name="first_edt_margin_top">40dp</dimen>
+    <dimen name="prompt_message_margin_top">45dp</dimen>
+
+    <dimen name="complete_info_cn_name_margin_top">42dp</dimen>
+    <dimen name="complete_info_gender_text_padding_left_image">8dp</dimen>
+    <dimen name="complete_info_radiobutton_padding_left_image">8dp</dimen>
+    <dimen name="complete_info_radiobutton_padding_to_last">39dp</dimen>
+    <dimen name="complete_info_chk_obey_rule_margin_bottom">108dp</dimen>
+    <dimen name="complete_info_rb_margin_top">29dp</dimen>
+
+    <dimen name="mobile_base_edt_phone_margin_top">40dp</dimen>
+    <dimen name="mobile_base_button_margin_top">60dp</dimen>
+
+    <dimen name="login_verify_code_margin_top">14dp</dimen>
+    <dimen name="other_login_icon_width">36dip</dimen>
+    <dimen name="other_login_icon_margin">80dp</dimen>
+    <dimen name="other_login_margin_bottom">30dp</dimen>
+    <dimen name="other_login_margin_top">28dp</dimen>
+    <dimen name="line_height">1px</dimen>
+
+    <dimen name="toolbar_avatar_width">44dp</dimen>
+    <dimen name="toolbar_avatar_height">44dp</dimen>
+    <dimen name="appbar_height">96dp</dimen>
+    <dimen name="home_page_item_shape_corners_radius">6dp</dimen>
+    <dimen name="task_button_radius">57dp</dimen>
+    <dimen name="task_card_test_height">221dp</dimen>
+    <dimen name="course_name_icon_margin_top">4dp</dimen>
+    <dimen name="not_network_icon_margin_top">120dp</dimen>
+    <dimen name="refresh_header_view_height">45dp</dimen>
+    <dimen name="toolbar_avatar_name_padding">10dp</dimen>
+    <dimen name="home_page_item_view_padding">16dp</dimen>
+    <dimen name="home_page_item_view_class_icon_margin_top">14dp</dimen>
+    <dimen name="home_page_item_view_class_name_margin_left">5dp</dimen>
+    <dimen name="home_page_item_view_class_name_margin_top">10dp</dimen>
+    <dimen name="home_page_item_view_course_name_drawable_padding">5dp</dimen>
+    <dimen name="home_page_item_view_course_grade_rating_bar_size">18dp</dimen>
+    <dimen name="line_size">1dp</dimen>
+    <dimen name="home_page_item_view_vertical_line_height">10dp</dimen>
+    <dimen name="home_page_item_view_vertical_line_margin_left">10dp</dimen>
+    <dimen name="home_page_item_view_text_list_margin_bottom">16dp</dimen>
+    <dimen name="home_page_item_view_text_list_margin_left">16dp</dimen>
+    <dimen name="home_page_item_view_task_bt_one_margin_right">12dp</dimen>
+    <dimen name="home_page_item_view_task_bt_one_margin_top">16dp</dimen>
+    <dimen name="home_page_item_view_task_bt_two_margin_top">16dp</dimen>
+    <dimen name="home_page_item_view_expand_check_box_margin_bottom">5dp</dimen>
+    <dimen name="task_button_vertical_padding">10dp</dimen>
+    <dimen name="task_button_horizontal_padding">16dp</dimen>
+    <dimen name="task_state_gray_shape_top_right_radius">16dp</dimen>
+    <dimen name="task_state_vertical_padding">5dp</dimen>
+    <dimen name="task_state_horizontal_padding">10dp</dimen>
+    <dimen name="fragment_home_page_tip_drawable_padding">20dp</dimen>
+    <dimen name="home_page_header_view_my_task_margin_top">20dp</dimen>
+    <dimen name="home_page_header_view_completed_task_margin_top_bottom">14dp</dimen>
+    <dimen name="home_page_header_view_completed_task_drawable_padding">8dp</dimen>
+    <dimen name="home_page_header_view_completed_task_padding_top_bottom">10dp</dimen>
+    <dimen name="home_page_header_view_completed_task_padding_left_right">16dp</dimen>
+    <dimen name="home_page_header_join_class_icon_margin_left">16dp</dimen>
+    <dimen name="home_page_header_join_class_text_top_margin_left">16dp</dimen>
+    <dimen name="home_page_header_join_class_text_top_margin_top">20dp</dimen>
+    <dimen name="home_page_header_join_class_margin_bottom">20dp</dimen>
+    <dimen name="home_page_header_join_class_margin_left">16dp</dimen>
+    <dimen name="home_page_header_join_class_margin_top">10dp</dimen>
+    <dimen name="home_page_header_view_go_self_study_layout_margin_top">16dp</dimen>
+    <dimen name="activity_completed_task_radio_bt_one_margin_left">18dp</dimen>
+    <dimen name="activity_completed_task_radio_bt_two_margin_left">45dp</dimen>
+    <dimen name="activity_completed_task_radio_bt_three_margin_left">45dp</dimen>
+    <dimen name="activity_completed_task_radio_bt_four_margin_left">45dp</dimen>
+    <dimen name="task_divider_max_height">38dp</dimen>
+    <dimen name="task_divider_min_height">16dp</dimen>
+    <dimen name="task_divider_margin_left">24dp</dimen>
+    <dimen name="task_divider_text_margin_left">40dp</dimen>
+    <dimen name="completed_task_margin_horizontal_size">16dp</dimen>
+    <dimen name="corner_icon_with_cell_height">90dp</dimen>
+
+    <dimen name="open_packages_txt_prompt_message_margin_top">32dp</dimen>
+    <dimen name="open_packages_btn_recharge_margin_top">60dp</dimen>
+    <dimen name="open_packages_txt_purchase_recharge_code_margin_top">24dp</dimen>
+
+    <dimen name="homework_submit_result_container_margin_bottom">74dp</dimen>
+    <dimen name="homework_submit_result_container_margin_top">87dp</dimen>
+    <dimen name="homework_submit_result_iv_caidai_margin_top">55dp</dimen>
+    <dimen name="homework_submit_result_txt_submit_status_margin_top">67dp</dimen>
+    <dimen name="homework_submit_success_rating_bar_sizerating_bar_big_size">33dp</dimen>
+    <dimen name="homework_submit_success_ratingstar_margin_top">61dp</dimen>
+    <dimen name="homework_submit_success_txt_homework_accuracy_rate_margin_top">12dp</dimen>
+    <dimen name="homework_submit_success_pic_jinbei_margin_top">57dp</dimen>
+    <dimen name="homework_submit_success_gain_score_margin_top">10dp</dimen>
+    <dimen name="homework_submit_success_gain_score_margin_left">8dp</dimen>
+    <dimen name="homework_submit_success_txt_encourage_margin_top">10dp</dimen>
+    <dimen name="homework_submit_success_btn_draw_width">188dp</dimen>
+    <dimen name="homework_submit_success_btn_draw_margin_bottom">32dp</dimen>
+
+    <dimen name="homework_answer_sheet_view_item_width">40dp</dimen>
+    <dimen name="homework_answer_sheet_view_item_height">40dp</dimen>
+    <dimen name="homework_answer_sheet_view_item_margin_top">16dp</dimen>
+    <dimen name="homework_answer_sheet_item_score_width">50dp</dimen>
+
+    <dimen name="project_finished_background_corner">39dp</dimen>
+    <dimen name="homework_answer_sheet_item_score_margin_top">4dp</dimen>
+
+    <dimen name="progresshud_padding" tools:override="true">0dp</dimen>
+    <dimen name="progresshud_width" tools:override="true">73dp</dimen>
+    <dimen name="progresshud_height" tools:override="true">73dp</dimen>
+
+    <dimen name="completed_task_tab_height">40dp</dimen>
+    <dimen name="completed_task_tab_indicator_height">2dp</dimen>
+
+    <dimen name="a2048_item_width">60dp</dimen>
+    <dimen name="a2048_item_padding">10dp</dimen>
+
+</resources>
